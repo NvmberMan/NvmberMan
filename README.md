@@ -39,7 +39,7 @@
   <img align="center" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHB0czljNDMweXp5b3Q4bThnNWpjY3o5dTJtbTQ1Z29jaDZia3owcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ukMiDlCmdv2og/giphy.gif" alt="Coding gif" />
 </p>
 -->
-<p>
+<p align="center">
   ✌️ &emsp; Enjoying programming and sharing knowledge <br/><br/>
   ❤️ &emsp; Love writing code and learning new features<br/><br/>
   📧 &emsp; Reach me anytime: ranggatohpati1121@gmail.com<br/><br/>
