@@ -97,7 +97,7 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&labelColor=black&logo=c-sharp&logoColor=239120)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&labelColor=black&logo=java&logoColor=007396)
 ![Apache NetBeans](https://img.shields.io/badge/Apache_NetBeans-1B6AC6?style=for-the-badge&labelColor=black&logo=apache-netbeans-ide&logoColor=1B6AC6)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&labelColor=black&logo=unity&logoColor=000000)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&labelColor=black&logo=unity&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=4479A1)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&labelColor=black&logo=firebase&logoColor=FFCA28)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&labelColor=black&logo=c%2B%2B&logoColor=00599C)
