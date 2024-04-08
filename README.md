@@ -99,6 +99,10 @@
 ![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&labelColor=black&logo=c-sharp&logoColor=239120)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&labelColor=black&logo=java&logoColor=007396)
+![Apache NetBeans](https://img.shields.io/badge/Apache_NetBeans-1B6AC6?style=for-the-badge&labelColor=black&logo=apache-netbeans-ide&logoColor=1B6AC6)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&labelColor=black&logo=unity&logoColor=000000)
 
 <br/>
 
